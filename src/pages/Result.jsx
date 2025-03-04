@@ -24,7 +24,7 @@ const Result = () => {
             {stripHtmlTags(extractedText) || "No text extracted"} 
           </Typography>
           <Button variant="contained" sx={{ mt: 3 }} onClick={() => navigate("/")}>
-            Upload Another File
+            Upload Another Filesdjsdjsdjsdjsdjksjkdsjkjdsksjkdjk
           </Button>
         </CardContent>
       </Card>
